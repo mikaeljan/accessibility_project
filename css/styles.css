@@ -19,7 +19,7 @@ a {
   transition: all .5s;
 }
 a:hover {
-  color: #999;
+  color: white;
 }
 
 /* Section Styles */
@@ -50,10 +50,6 @@ a:hover {
 
 .nav li {
   padding: 5px 10px 10px 10px;
-}
-
-a {
-  transition: all .5s;
 }
 
 header {
