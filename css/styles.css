@@ -108,16 +108,8 @@ header .name {
 .information {
   width: 100%;
   text-align: center;
-  /*display: inline-block;
-  position: absolute;*/
 }
 
-/*.heading{
-  font-size: 2em;
-  text-transform: uppercase;
-  color: #f7ca18;
-  margin-top: 10px;
-}*/
 
 /* Footer styles */
 
@@ -172,9 +164,6 @@ a.spotify {
 a:hover {
   opacity: 1;
 }
-.clearfix {
-  clear: both;
-}
 
 /* Styles for larger screens */
 @media screen and (min-width: 840px) {
@@ -216,7 +205,7 @@ a:hover {
     margin: 20px 30px;
   }
 
-  .information{
+  .information {
     text-align: left;
   }
 
