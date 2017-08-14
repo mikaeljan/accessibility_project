@@ -6,10 +6,9 @@
   flex-direction: column;
 }
 .tour-dates {
-  font-family: 'Open Sans', sans-serif;
-  text-align: center;
+  text-align: left;
+  width: 100%
 }
-
 .pick {
   width: 40px;
   height: 0%;
