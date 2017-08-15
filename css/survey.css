@@ -13,12 +13,22 @@ form {
 
 fieldset {
   border: none;
-
 }
-.container{
+
+input:focus,
+textarea:focus,
+select:focus {
+	transition-property: background-color;
+  transition-duration: .5s;
+  transition-timing-function: ease-out;
+	background-color: #f2e893;
+  border-radius: 5%;
+}
+
+.container {
   text-align: center;
 }
-.newsletter{
+.newsletter {
   text-align: right;
 
 }
